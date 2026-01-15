@@ -4,7 +4,7 @@
 
 export const environment = {
   production: false,
-  appUrl : 'http://3.109.211.19/Company/'
+  appUrl : 'http://13.205.199.109/Company/'
 };
 
 /*
