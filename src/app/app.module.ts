@@ -85,7 +85,7 @@ import { SalarySlipComponent } from './layout/salary-slip/salary-slip.component'
     MatProgressBarModule,
     MatExpansionModule,
     AgmCoreModule.forRoot({
-      apiKey: 'AIzaSyCBRHoDj-z_mh59rKgkXo6_P9eU2KOGoeM' 
+      apiKey: 'API_KEY_HERE' 
     }),
     AgmDirectionModule
   ],
